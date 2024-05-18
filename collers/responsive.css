@@ -1,0 +1,459 @@
+@media screen and (max-width: 424px) {
+  section.main {
+    background-size: cover;
+    .main-image {
+      width: 300px;
+    }
+    h1 {
+      font-family: "Roboto" !important;
+      font-size: 56px !important;
+      font-weight: 800 !important;
+      line-height: 61.6px !important;
+    }
+    .btn-outline-default {
+      width: 115px;
+    }
+    .play-video {
+      width: 150px;
+    }
+    p.subtitle,
+    p.explation {
+      text-align: center !important;
+    }
+  }
+
+  section.products {
+    height: auto;
+    h1 {
+      font-size: 20px !important;
+      font-weight: 700 !important;
+      line-height: 20px !important;
+      letter-spacing: 3px !important ;
+      text-align: center;
+    }
+  }
+
+  section.solution {
+    height: auto;
+    > .container > .row {
+      transform: translateY(5%);
+    }
+    .video-thumbnail img {
+      width: 280px;
+    }
+    .solution-image {
+      top: 56%;
+    }
+    .solution-signUp {
+      z-index: 15;
+    }
+    .solution-circle {
+      top: 88%;
+      right: 57%;
+    }
+  }
+
+  section.pricing {
+    height: auto;
+    h1 {
+      font-family: "Roboto" !important;
+      font-size: 30px !important;
+      font-weight: 700 !important;
+      line-height: 35.2px !important;
+      text-align: center;
+    }
+    .pb-5 {
+      padding-bottom: 7rem !important;
+    }
+    .card {
+      height: auto !important;
+      width: fit-content !important;
+      .card-text {
+        font-size: 16px !important;
+        line-height: 22.4px !important;
+      }
+      img.rounded-circle {
+        width: 45px !important;
+        height: 45px !important;
+      }
+    }
+  }
+
+  section.resources {
+    height: auto;
+    h1 {
+      font-family: "Roboto" !important;
+      font-size: 32px !important;
+      font-weight: 700 !important;
+      line-height: 35.2px !important;
+    }
+    p {
+      font-family: "Roboto" !important;
+      font-size: 16px !important;
+      font-weight: 400 !important;
+      line-height: 22.4px !important;
+    }
+    .image-container {
+      width: 240px;
+      height: 190px;
+    }
+    .image-container img {
+      position: absolute;
+    }
+    .image-1 {
+      right: -7%;
+      top: 43%;
+      width: 100px;
+    }
+    .image-2 {
+      left: 0%;
+      top: 15%;
+      width: 260px;
+    }
+    .image-3 {
+      right: 0%;
+      top: 0%;
+      width: 295px;
+    }
+  }
+
+  section.world {
+    .world-img {
+      width: 250px;
+    }
+    h1 {
+      font-size: 48px !important;
+      font-weight: 800 !important;
+      line-height: 52.8px !important;
+    }
+    h3 {
+      font-size: 32px !important;
+      font-weight: 700 !important;
+      line-height: 32.5px !important;
+    }
+  }
+}
+
+@media screen and (min-width: 425px) and (max-width: 767px) {
+  section.main {
+    background-size: cover;
+    .main-image {
+      width: 300px;
+    }
+    h1 {
+      font-family: "Roboto" !important;
+      font-size: 56px !important;
+      font-weight: 800 !important;
+      line-height: 61.6px !important;
+    }
+    .btn-outline-default {
+      width: 150px;
+    }
+    .play-video {
+      width: 150px;
+    }
+    p.subtitle,
+    p.explation {
+      text-align: center !important;
+    }
+  }
+
+  section.products {
+    height: auto;
+    h1 {
+      font-size: 20px !important;
+      font-weight: 700 !important;
+      line-height: 20px !important;
+      letter-spacing: 3px !important ;
+      text-align: center;
+    }
+  }
+
+  section.solution {
+    height: auto;
+    > .container > .row {
+      transform: translateY(5%);
+    }
+    .video-thumbnail img {
+      width: 365px;
+    }
+    .solution-image {
+      top: 56%;
+    }
+    .solution-signUp {
+      z-index: 15;
+    }
+    .solution-circle {
+      top: 88%;
+      right: 57%;
+    }
+  }
+
+  section.pricing {
+    height: auto;
+    h1 {
+      font-family: "Roboto" !important;
+      font-size: 30px !important;
+      font-weight: 700 !important;
+      line-height: 35.2px !important;
+      text-align: center;
+    }
+    .pb-5 {
+      padding-bottom: 7rem !important;
+    }
+    .card {
+      height: auto !important;
+      width: fit-content !important;
+      .card-text {
+        font-size: 16px !important;
+        line-height: 22.4px !important;
+      }
+      img.rounded-circle {
+        width: 45px !important;
+        height: 45px !important;
+      }
+    }
+  }
+
+  section.resources {
+    height: auto;
+    h1 {
+      font-family: "Roboto" !important;
+      font-size: 32px !important;
+      font-weight: 700 !important;
+      line-height: 35.2px !important;
+    }
+    p {
+      font-family: "Roboto" !important;
+      font-size: 16px !important;
+      font-weight: 400 !important;
+      line-height: 22.4px !important;
+    }
+    .image-container {
+      width: 240px;
+      height: 190px;
+    }
+    .image-container img {
+      position: absolute;
+    }
+    .image-1 {
+      right: -7%;
+      top: 43%;
+      width: 100px;
+    }
+    .image-2 {
+      left: 0%;
+      top: 15%;
+      width: 260px;
+    }
+    .image-3 {
+      right: 0%;
+      top: 0%;
+      width: 295px;
+    }
+  }
+
+  section.world {
+    .world-img {
+      width: 250px;
+    }
+    h1 {
+      font-size: 48px !important;
+      font-weight: 800 !important;
+      line-height: 52.8px !important;
+    }
+    h3 {
+      font-size: 32px !important;
+      font-weight: 700 !important;
+      line-height: 32.5px !important;
+    }
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  section.main {
+    background-size: cover;
+    .main-image {
+      width: 300px;
+    }
+    h1 {
+      font-family: "Roboto" !important;
+      font-size: 56px !important;
+      font-weight: 800 !important;
+      line-height: 61.6px !important;
+    }
+    .btn-outline-default {
+      width: 150px;
+    }
+    .play-video {
+      width: 150px;
+    }
+    p.subtitle,
+    p.explation {
+      text-align: center !important;
+    }
+  }
+
+  section.products {
+    height: auto;
+    h1 {
+      font-size: 20px !important;
+      font-weight: 700 !important;
+      line-height: 20px !important;
+      letter-spacing: 3px !important ;
+      text-align: center;
+    }
+  }
+
+  section.solution {
+    height: auto;
+    > .container > .row {
+      transform: translateY(5%);
+    }
+    .video-thumbnail img {
+      width: 620px;
+    }
+    .solution-image {
+      top: 30%;
+      right: 5%;
+    }
+    .solution-signUp {
+      z-index: 15;
+    }
+    .solution-circle {
+      top: 85%;
+      right: 60%;
+    }
+  }
+
+  section.pricing {
+    height: auto;
+    .container {
+      padding-top: 5rem;
+    }
+  }
+
+  section.resources {
+    height: auto;
+    h1 {
+      font-family: "Roboto" !important;
+      font-size: 32px !important;
+      font-weight: 700 !important;
+      line-height: 35.2px !important;
+    }
+    p {
+      font-family: "Roboto" !important;
+      font-size: 16px !important;
+      font-weight: 400 !important;
+      line-height: 22.4px !important;
+    }
+    .image-container {
+      width: 325px;
+      height: 325px;
+    }
+    .image-container img {
+      position: absolute;
+    }
+    .image-1 {
+      right: 0%;
+      top: 27%;
+      width: 140px;
+    }
+    .image-2 {
+      left: 3%;
+      top: 13%;
+      width: 310px;
+    }
+    .image-3 {
+      right: 0%;
+      top: 0%;
+      width: 392px;
+      height: auto;
+    }
+  }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1439px) {
+  section.main {
+    .main-image {
+      width: 350px;
+    }
+  }
+
+  section.products {
+    .custom-card {
+        min-width: 310px;
+    }
+  }
+
+
+  section.solution {
+    height: auto;
+    > .container > .row {
+      transform: translateY(5%);
+    }
+    .video-thumbnail img {
+      width: 425px;
+    }
+    .solution-image {
+      top: -10%;
+      right: 3%;
+      width: 450px;
+    }
+    .solution-signUp {
+      z-index: 15;
+    }
+    .solution-circle {
+      top: 50%;
+      right: 30%;
+    }
+  }
+
+  section.pricing {
+    & .card-container {
+        .card-wrapper {
+            display: flex;
+            transition: transform 0.3s ease-in-out;
+            padding-top: 45px;
+        }
+    }
+}
+
+  section.resources {
+    height: auto;
+    h1 {
+      font-family: "Roboto" !important;
+      font-size: 32px !important;
+      font-weight: 700 !important;
+      line-height: 35.2px !important;
+    }
+    p {
+      font-family: "Roboto" !important;
+      font-size: 16px !important;
+      font-weight: 400 !important;
+      line-height: 22.4px !important;
+    }
+    .image-container {
+      width: 600px;
+      height: 850px;
+    }
+    .image-container img {
+      position: absolute;
+    }
+    .image-1 {
+        right: 0%;
+        top: 19%;
+        width: 230px;
+    }
+    .image-2 {
+        left: 5%;
+        top: 6%;
+        width: 565px;
+    }
+    .image-3 {
+      width: 665px;
+      height: auto;
+      top: 0;
+    }
+  }
+}
